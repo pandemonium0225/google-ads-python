@@ -23,9 +23,9 @@ use_proto_plus: INSERT_USE_PROTO_PLUS_FLAG_HERE
 # OAuth2 flow. For more information on authenticating with OAuth2 see:                   #
 # https://developers.google.com/google-ads/api/docs/oauth/overview                       #
 ##########################################################################################
-client_id: 317264881440-76bb2ok5f4pcb8oo4t1lbqcgrrbd8576.apps.googleusercontent.com
-client_secret: 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
-refresh_token: rMiubeOUgdrjus51CyJ40Q
+client_id: 
+client_secret: 
+refresh_token: 
 
 # Service Account configuration
 ##########################################################################################
